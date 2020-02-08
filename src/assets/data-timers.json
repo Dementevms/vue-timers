@@ -1,0 +1,16 @@
+{
+  "timers": [
+    {
+      "name": "First timer",
+      "time": 10
+    },
+    {
+      "name": "Second timer",
+      "time": 3830
+    },
+    {
+      "name": "Timer 3",
+      "time": 15
+    }
+  ]
+}
